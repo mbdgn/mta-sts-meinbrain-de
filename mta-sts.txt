@@ -1,4 +1,1 @@
-version: STSv1
-mode: testing
-mx: meinbrain-de.o-v1.mx.microsoft
-max_age: 604800
+
